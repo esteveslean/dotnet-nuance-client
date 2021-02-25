@@ -8,7 +8,7 @@ on:
 env:  
   CONFIG: "Release"
   NUGET_SOURCE_URL: "https://nuget.pkg.github.com/esteveslean/index.json"
-  PROJECT_PATH: "src/Dotnet.NuanceTranscription.csproj"
+  PROJECT_PATH: "src/Dotnet.NuanceClient.csproj"
   PACKAGE_OUTPUT_DIRECTORY: ${{ github.workspace }}\output
   
 jobs:
