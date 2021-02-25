@@ -7,7 +7,7 @@ on:
     
 env:  
   CONFIG: "Release"
-  NUGET_SOURCE_URL: "https://nuget.pkg.github.com/esteveslean/index.json"
+  NUGET_SOURCE_URL: "https://api.nuget.org/v3/index.json"
   PROJECT_PATH: "src/Dotnet.NuanceClient.csproj"
   
 jobs:
