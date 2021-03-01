@@ -20,7 +20,10 @@ namespace Dotnet.NuanceClient.Types
         public int NumSpeakers { get; set; } = 1;
 
         [JsonProperty(DefaultValueHandling = DefaultValueHandling.Ignore)]
-        public string ResultFormat { get; set; } = "transcript";        
+        public string ResultFormat { get; set; } = "transcript";
+
+        [JsonProperty(DefaultValueHandling = DefaultValueHandling.Ignore)]
+        public Statistics Statistics { get; set; }
 
         [JsonProperty(DefaultValueHandling = DefaultValueHandling.Ignore)]
         public List<Transcript> Transcript { get; set; }
