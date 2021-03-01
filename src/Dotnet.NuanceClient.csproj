@@ -6,8 +6,8 @@
     <Authors>esteveslean</Authors>
     <Description>Dotnet Nuance v4 Client</Description>
     <PackageTags>dotnet nuance v4 client</PackageTags>
-    <PackageProjectUrl>https://github.com/esteveslean/dotnet-nuance-packages</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/esteveslean/dotnet-nuance-packages</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/esteveslean/dotnet-nuance-client</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/esteveslean/dotnet-nuance-client</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <IncludeSymbols>true</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
